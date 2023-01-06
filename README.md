@@ -3,16 +3,16 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently looking for an Internship position.
-    <li>👨‍💻 Most of my projects are available on <a href="https://nguyenducbinh.me">my portfolio website</a>.</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/">LinkedIn</a>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://nguyenducbinh.me" target="_blank" rel="noopener">my portfolio website</a>.</li>
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noopener">LinkedIn</a>.</li>
   </ul>
 </div>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fenfhnib/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noopener"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/fenfhnib/" target="_blank" rel="noopener"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
