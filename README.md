@@ -1,5 +1,5 @@
 <h2>Hello World, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
-<img alight='right' src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="230" >
+<img alight='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" >
 <p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/">ITD Technical Group</a><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30"> 
 </em></p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <div>
-  <img width="400px" align="right" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
+  <img width="300px" align="right" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 Not only coding, my huge other passing are also photography and making music
