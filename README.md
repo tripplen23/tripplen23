@@ -1,6 +1,6 @@
 <h2>Hello World, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img width="300px" align="right" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
-<p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/">ITD Technical Group</a><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30" margin-left="5px"> 
+<p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/">ITD Technical Group </a><img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="30"> 
 </em></p>
 
 ## Connect with me:
@@ -20,7 +20,7 @@
   </ul>
 </div>
 
-### <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const binh = {
