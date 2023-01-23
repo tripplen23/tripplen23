@@ -1,3 +1,8 @@
+<h2>Hello World, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
+<img alight='right' src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="230" >
+<p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/">ITD Technical Group</a><img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30"> 
+</em></p>
+
 <div>
   <img width="400px" align="right" src="https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-6/321802809_540493614796987_2858551117341703452_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=730e14&_nc_ohc=A1dqVdV3qOgAX_3Xe5q&_nc_ht=scontent-hel3-1.xx&oh=00_AfDhmR6k9WorCMx164znCdGpkaRzcqUXuvxG8tlf_ji3cA&oe=63BD2EC7" />
   <h2>⚡️ A Few Quick Facts</h2>
