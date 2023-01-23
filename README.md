@@ -3,7 +3,7 @@
 <p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/" target="_blank" rel="noreferrer">ITD Technical Group </a><img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="30"> 
 </em></p>
 
-## 🔥Connect with me:
+## 🔥 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
