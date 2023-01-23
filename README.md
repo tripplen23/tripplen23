@@ -21,7 +21,26 @@
   </ul>
 </div>
 
+### <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const binh = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "CSS", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
+    technologies: {
+        frontEnd: {
+            js: ["reactjs"],
+            css: ["tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo"]
+    },
+    funFact: "101010"
+};
+```
 
 
 
