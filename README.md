@@ -30,7 +30,7 @@ const binh = {
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
-            js: ["reactjs", "ElectronJS"],
+            js: ["reactjs", "electronjs"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
@@ -38,7 +38,7 @@ const binh = {
         },
         databases: ["mongo"]
     },
-    funFact: "101010"
+    funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
 ```
 ### 🔥 Thank you for visiting!
