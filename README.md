@@ -26,11 +26,11 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python"],
+    code: ["Javascript", "HTML", "CSS", "Python", "Golang"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
-            js: ["reactjs"],
+            js: ["reactjs", "ElectronJS"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
