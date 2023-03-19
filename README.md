@@ -36,11 +36,11 @@ const binh = {
         backEnd: {
             js: ["node", "express"],
             py: ["flask"]
+            databases: ["mongo"]
         },
         test: {
             py: ["pytest"]
         },
-        databases: ["mongo"]
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
