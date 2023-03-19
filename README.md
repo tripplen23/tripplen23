@@ -35,6 +35,7 @@ const binh = {
         },
         backEnd: {
             js: ["node", "express"],
+            py: ["flask"]
         },
         databases: ["mongo"]
     },
