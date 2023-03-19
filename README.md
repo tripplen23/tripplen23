@@ -40,7 +40,7 @@ const binh = {
         },
         test: {
             py: ["pytest"]
-        },
+        }
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
