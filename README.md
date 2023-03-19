@@ -26,16 +26,19 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python", "Golang"],
+    code: ["Javascript", "HTML", "CSS", "Python", "Golang", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
-            js: ["reactjs", "electronjs"],
+            js: ["reactjs", "electronjs", "angularjs"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
             py: ["flask"]
+        },
+        test: {
+            py: ["pytest"]
         },
         databases: ["mongo"]
     },
