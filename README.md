@@ -43,11 +43,14 @@ const binh = {
             java: ["android studio"],
             js: ["react native"]
         },
-        test: {
+        softwareTesting: {
             py: ["pytest"],
-            js: ["jest", "eslint", "cypress"]
+            js: ["jest", "eslint", "cypress"],
+            api: ["postman", "swagger-ui", "insomnia"]
         },
-        
+        containerization: {
+            docker: true
+        }
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
