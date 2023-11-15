@@ -26,21 +26,28 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python", "Golang", "Typescript"],
+    code: ["Javascript", "HTML", "CSS", "Python", "Golang", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
-            js: ["reactjs", "electronjs", "angularjs"],
+            js: ["react", "electronjs", "angular", "vue3"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
             py: ["flask"]
-            databases: ["mongo"]
+            databases: ["mongo"],
+            graphql: true,
+        },
+        mobileDev: {
+            java: ["android studio"],
+            js: ["react native"]
         },
         test: {
-            py: ["pytest"]
-        }
+            py: ["pytest"],
+            js: ["jest", "eslint", "cypress"]
+        },
+        
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
