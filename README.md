@@ -1,13 +1,15 @@
 <h2>Hello, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img width="300px" align="right" src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
-<p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/" target="_blank" rel="noreferrer">ITD Technical Group </a><img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="30"> 
+<p><em>Software Engineer trainee at <a href="https://www.itd.com.vn/en/" target="_blank" rel="noreferrer">ITD Technical Group </a> Spring and Summer semester 2023<img src="https://media.giphy.com/media/UCm27xoAXWkG6eZk0n/giphy.gif" width="30"> 
 </em></p>
+<p>Open to work as a Software Engineer</p>
 
 ## 🔥 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fenfhnib/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/fenfhnib/" target="_blank"
+ rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/tripplen23" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 </p>
