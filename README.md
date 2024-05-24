@@ -28,7 +28,7 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python", "Typescript", "Java"],
+    code: ["Javascript", "HTML", "CSS", "Python", "Typescript", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
@@ -38,7 +38,8 @@ const binh = {
         backEnd: {
             js: ["node", "express"],
             py: ["flask"],
-            databases: ["mongo"],
+            c#: ["ASP", ".NET"],
+            databases: ["mongo", "postgresql"],
             graphql: true,
         },
         mobileDev: {
