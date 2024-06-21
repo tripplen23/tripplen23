@@ -18,7 +18,7 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 Code, photography and music
-    <li>👨‍💻 Most of my projects are available on <a href="https://nguyenducbinh.me" target="_blank" rel="noreferrer">my portfolio website</a>.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://nguyenducbinh.vercel.app/" target="_blank" rel="noreferrer">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noreferrer">LinkedIn</a>.</li>
   </ul>
 </div>
