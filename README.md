@@ -58,8 +58,6 @@ const binh = {
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
 };
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
-
 ```
 ### 🔥 Thank you for visiting!
 ```
@@ -83,5 +81,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
 
 
