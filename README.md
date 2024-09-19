@@ -7,7 +7,7 @@
 ## 🔥 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/duc-binh-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/binh-duc-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fenfhnib/" target="_blank"
  rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/tripplen23" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
@@ -28,7 +28,7 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Python", "Typescript", "Java", "C#"],
+    code: ["Javascript", "Python", "Typescript", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
@@ -40,7 +40,7 @@ const binh = {
             py: ["flask"],
             c#: ["ASP", ".NET"],
             databases: ["mongo", "postgresql"],
-            graphql: true,
+            graphql: true
         },
         mobileDev: {
             java: ["android studio"],
@@ -51,8 +51,13 @@ const binh = {
             js: ["jest", "eslint", "cypress"],
             api: ["postman", "swagger-ui", "insomnia"]
         },
-        containerization: {
-            docker: true
+        devOps: {
+            docker: true,
+            kubernetes: true,
+            githubAction: true
+        },
+        cloud: {
+            Azure = [AZ204]
         }
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive"
@@ -83,5 +88,6 @@ _____________|','   ///_/-------------/   |
 ```
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
+
 
 
