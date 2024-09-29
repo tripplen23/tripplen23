@@ -1,4 +1,5 @@
-<h2>Hello, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
+<h2>Hello, I'm Binh Nguyen <
+img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
 <img width="300px" align="right"
  src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
 <p><em>Software Engineer trainee at ITD Technical Group </a> Spring and Summer semesters 2023</em></p>
@@ -38,7 +39,7 @@ const binh = {
         backEnd: {
             js: ["node", "express"],
             py: ["flask"],
-            c#: ["ASP", ".NET"],
+            csharp: ["ASP", ".NET"],
             databases: ["mongo", "postgresql"],
             graphql: true
         },
