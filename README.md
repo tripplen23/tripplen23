@@ -44,7 +44,7 @@ const binh = {
             graphql: true
         },
         mobileDev: {
-            java: ["android studio"],
+            java: ["android"],
             js: ["react native"]
         },
         softwareTesting: {
@@ -52,7 +52,6 @@ const binh = {
             js: ["jest", "eslint", "cypress"],
             api: ["postman", "swagger-ui", "insomnia"]
         },
-
         devOps: {
             docker: true,
             kubernetes: true,
