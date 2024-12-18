@@ -44,6 +44,7 @@ const binh = {
         },
         mobileDev: {
             java: ["android"],
+
             js: ["react native"]
         },
         softwareTesting: {
@@ -88,12 +89,4 @@ _____________|','   ///_/-------------/   |
 ```
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/tripplen23"
-  width="600"
-  height="300"
-/>
-</a>
 
