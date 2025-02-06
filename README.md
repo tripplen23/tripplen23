@@ -2,7 +2,8 @@
 <img width="300px" align="right"
  src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
 <p><em>Software Engineer trainee at ITD Technical Group </a> Spring and Summer semesters 2023</em></p>
-<p><em>Software Engineer trainee at <a href="https://www.integrify.io/" target="_blank" rel="noreferrer">Integrify Academy </a> Spring semester 2024</em></p>
+<p><em>Software Engineer trainee at <a href="https://www.integrify.io/" target="_blank" rel="noreferrer">Integrify Academy </a> 2024</em></p>
+<p><em>Junior Software Developer at <a href="https://lakihelppi.com/" target="_blank" rel="noreferrer">Lakihelppi Oy </a> at the present</em></p>
 <p>Open to work as a Software Engineer or related</p>
 
 ## 🔥 Connect with me:
