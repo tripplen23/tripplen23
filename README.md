@@ -3,7 +3,8 @@
  src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
 <p><em>Software Engineer trainee at ITD Technical Group </a> Spring and Summer semesters 2023</em></p>
 <p><em>Software Engineer trainee at <a href="https://www.integrify.io/" target="_blank" rel="noreferrer">Integrify Academy </a> 2024</em></p>
-<p><em>Junior Software Developer at <a href="https://lakihelppi.com/" target="_blank" rel="noreferrer">Lakihelppi Oy </a> at the present</em></p>
+<p><em>Junior Software Developer at <a href="https://lakihelppi.com/" target="_blank" rel="noreferrer">Lakihelppi Oy </a> 11/2024 - 3/2025</em></p>
+<p><em>AI Software Developer at <a href="https://rubberduck.live/" target="_blank" rel="noreferrer">RubberduckAI Oy </a>at the present</em></p>
 <p>Open to work as a Software Engineer or related</p>
 
 ## 🔥 Connect with me:
@@ -51,6 +52,7 @@ const binh = {
         softwareTesting: {
             py: ["pytest"],
             js: ["jest", "eslint", "cypress"],
+
             api: ["postman", "swagger-ui", "insomnia"]
         },
         devOps: {
