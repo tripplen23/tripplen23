@@ -11,8 +11,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/binh-duc-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fenfhnib/" target="_blank"
- rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/tripplen23" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 </p>
