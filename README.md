@@ -29,11 +29,12 @@
 ```javascript
 const binh = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Typescript", "Java", "C#"],
+    code: ["Javascript", "Python", "Typescript", "Java", "C#", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
     technologies: {
         frontEnd: {
             js: ["react", "electronjs", "angular", "vue3"],
+            php: ["laravel"],
             css: ["tailwind", "bootstrap"]
         },
         backEnd: {
@@ -45,7 +46,6 @@ const binh = {
         },
         mobileDev: {
             java: ["android"],
-
             js: ["react native"]
         },
         softwareTesting: {
