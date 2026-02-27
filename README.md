@@ -34,35 +34,34 @@ const binh = {
         frontEnd: {
             js: ["react", "electronjs", "angular", "vue3"],
             php: ["laravel"],
-            css: ["tailwind", "bootstrap"]
+            css: ["tailwind", "bootstrap"],
         },
         backEnd: {
             js: ["node", "express"],
             py: ["flask"],
             csharp: ["ASP", ".NET"],
             databases: ["mongo", "postgresql"],
-            graphql: true
+            graphql: true,
         },
         mobileDev: {
             java: ["android"],
-            js: ["react native"]
+            js: ["react native"],
         },
         softwareTesting: {
             py: ["pytest"],
             js: ["jest", "eslint", "cypress"],
-
-            api: ["postman", "swagger-ui", "insomnia"]
+            api: ["postman", "swagger-ui", "insomnia"],
         },
         devOps: {
             docker: true,
             kubernetes: true,
-            githubAction: true
+            githubAction: true,
         },
         cloud: {
-            Azure = [AZ204]
+            Azure = [AZ204],
         }
     },
-    funFact: "Don't follow your dream as a tech nerd, it's addictive"
+    funFact: "Don't follow your dream as a tech nerd, it's addictive",
 };
 
 ```
