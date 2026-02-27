@@ -6,7 +6,6 @@
 <p><em>Junior Software Developer at <a href="https://lakihelppi.com/" target="_blank" rel="noreferrer">Lakihelppi Oy </a> 11/2024 - 3/2025</em></p>
 <p><em>AI Software Developer at <a href="https://rubberduck.live/" target="_blank" rel="noreferrer">RubberduckAI Oy </a>2/2025 - 9/2025</em></p>
 <p><em>AI Software Developer at <a href="https://www.group.one/" target="_blank" rel="noreferrer">Group One </a>at the present</em></p>
-<p>Open to work as a Software Engineer or related</p>
 
 ## 🔥 Connect with me:
 <p align="left">
