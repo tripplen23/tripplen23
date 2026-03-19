@@ -1,20 +1,3 @@
-<h2>Hello, I'm Binh Nguyen <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"></h2>
-<img width="300px" align="right"
- src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" />
-<p><em>Software Engineer trainee at ITD Technical Group </a> Spring and Summer semesters 2023</em></p>
-<p><em>Software Engineer trainee at <a href="https://www.integrify.io/" target="_blank" rel="noreferrer">Integrify Academy </a> 2024</em></p>
-<p><em>Junior Software Developer at <a href="https://lakihelppi.com/" target="_blank" rel="noreferrer">Lakihelppi Oy </a> 11/2024 - 3/2025</em></p>
-<p><em>AI Software Developer at <a href="https://rubberduck.live/" target="_blank" rel="noreferrer">RubberduckAI Oy </a>2/2025 - 9/2025</em></p>
-<p><em>AI Software Developer at <a href="https://www.group.one/" target="_blank" rel="noreferrer">Group One </a>at the present</em></p>
-
-## 🔥 Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/binh-duc-nguyen-3b4839168/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/tripplen23" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-
-</p>
-
 <div>
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
