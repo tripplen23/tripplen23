@@ -10,39 +10,9 @@
 
 ```javascript
 const binh = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Typescript", "Java", "C#", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "making music"],
-    technologies: {
-        frontEnd: {
-            js: ["react", "electronjs", "angular", "vue3"],
-            php: ["laravel"],
-            css: ["tailwind", "bootstrap"],
-        },
-        backEnd: {
-            js: ["node", "express"],
-            py: ["flask"],
-            csharp: ["ASP", ".NET"],
-            databases: ["mongo", "postgresql"],
-            graphql: true,
-        },
-        mobileDev: {
-            java: ["android"],
-            js: ["react native"],
-        },
-        softwareTesting: {
-            py: ["pytest"],
-            js: ["jest", "eslint", "cypress"],
-            api: ["postman", "swagger-ui", "insomnia"],
-        },
-        devOps: {
-            docker: true,
-            kubernetes: true,
-            githubAction: true,
-        },
-        cloud: {
-            Azure = [AZ204],
-        }
+      code: [ "Javascript", "Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
+      DevOps: [ "docker", "kubernetes", "githubAction" ],
+      cloud: [ "Azure", "AWS", "GCP" ]
     },
     funFact: "Don't follow your dream as a tech nerd, it's addictive",
 };
