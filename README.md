@@ -10,7 +10,7 @@
 
 ```javascript
 const binh = {
-      code: [ "Javascript", "Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
+      code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ]
     },
