@@ -14,9 +14,7 @@ const binh = {
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ],
       OS: ["Ubuntu"],
-    },
-    Note: "Thanks for visiting my crafts",
-};
+}
 
 
                              \\\\\\\
