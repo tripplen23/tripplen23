@@ -13,7 +13,7 @@ const binh = {
       code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ],
-      OS: ["Ubuntu"].
+      OS: ["Ubuntu"],
     },
     Note: "Thanks for visiting my crafts",
 };
