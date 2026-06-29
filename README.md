@@ -12,14 +12,13 @@
 const binh = {
       code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
       DevOps: [ "docker", "kubernetes", "githubAction" ],
-      cloud: [ "Azure", "AWS", "GCP" ]
+      cloud: [ "Azure", "AWS", "GCP" ],
+      OS: ["Ubuntu"].
     },
-    funFact: "Don't follow your dream as a tech nerd, it's addictive",
+    Note: "Thanks for visiting my crafts",
 };
 
-```
-### 🔥 Thank you for visiting!
-```
+
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
