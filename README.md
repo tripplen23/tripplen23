@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-### <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="50"> FACT 
 
 ```javascript
 const binh = {
