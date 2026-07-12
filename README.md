@@ -1,5 +1,5 @@
 <div>
-  <h2>⚡️ A Few Quick Facts</h2>
+  <h2>Facts</h2>
   <ul>
     <li>🔭 Code, photography and music
     <li>👨‍💻 Most of my projects are available on <a href="https://nguyenducbinh.vercel.app/" target="_blank" rel="noreferrer">my portfolio website</a>.</li>
