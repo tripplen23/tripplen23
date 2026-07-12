@@ -6,8 +6,6 @@
   </ul>
 </div>
 
-### <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="50"> FACT 
-
 ```javascript
 const binh = {
       code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
