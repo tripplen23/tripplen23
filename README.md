@@ -11,6 +11,7 @@ const binh = {
       code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ],
+      tools: [ "pi", "herdr", "opencode" ],
       OS: [ "Ubuntu", "MacOS" ], // Can but don't wanna f with Microslop
 }
 
