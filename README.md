@@ -12,7 +12,7 @@ const binh = {
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ],
       tools: [ "pi", "herdr", "opencode" ],
-      OS: [ "Ubuntu", "MacOS" ], // Can but don't wanna f with Microslop
+      OS: [ "Ubuntu", "MacOS" ],
 }
 
 
