@@ -8,7 +8,7 @@
 
 ```javascript
 const binh = {
-      code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust" ],
+      code: ["Python", "Typescript", "Java", "C#", "PHP", "Rust", "Go", "Swift", "C++" ],
       DevOps: [ "docker", "kubernetes", "githubAction" ],
       cloud: [ "Azure", "AWS", "GCP" ],
       tools: [ "pi", "herdr", "opencode" ],
